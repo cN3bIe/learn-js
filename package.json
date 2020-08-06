@@ -1,0 +1,24 @@
+{
+  "name": "learn-js",
+  "version": "1.0.0",
+  "description": "Обучение JS  через TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cN3bIe/learn-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cN3bIe/learn-js/issues"
+  },
+  "homepage": "https://github.com/cN3bIe/learn-js#readme",
+  "devDependencies": {
+    "jest": "^26.2.2",
+    "@types/jest": "^26.0.9"
+  }
+}
